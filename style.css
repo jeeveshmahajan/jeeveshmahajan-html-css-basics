@@ -56,13 +56,16 @@ hr {
     padding: 0rem;
 }
 
+/* spaces */
+.padding-md {
+    padding: 2rem;
+}
 
 /* navigation */
 .navigation {
     background-color: var(--primary-color);
     padding: 1rem;
     border-bottom-left-radius: 1rem;
-    border-top-right-radius: 1rem;
     color: white;
 }
 
@@ -90,6 +93,7 @@ hr {
 /* header */
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-image {
@@ -109,7 +113,7 @@ hr {
 
 /* section */
 .section {
-    padding: 2rem;
+    padding: 2rem 2rem 3rem 2rem;
 }
 
 .section h1{
@@ -130,11 +134,15 @@ hr {
     border-top-right-radius: 1rem;
 }
 
+.footer .footer-header {
+    font-weight: bold;
+    font-size: x-large;
+}
+
 .footer .link {
     color: white;
 }
 
 .footer ul {
     padding-inline-start:0px;
-
 }
