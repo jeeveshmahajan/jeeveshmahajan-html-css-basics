@@ -53,7 +53,7 @@ hr {
 
 .list-item-inline {
     display: inline;
-    padding: 0rem 1rem;
+    padding: 0rem;
 }
 
 
@@ -123,7 +123,7 @@ hr {
 /* footer */
 .footer {
     background-color: var(--primary-color);;
-    padding: 2rem 1rem;
+    padding: 2rem;
     text-align: center;
     color: white;
     border-top-left-radius: 1rem;
@@ -136,4 +136,5 @@ hr {
 
 .footer ul {
     padding-inline-start:0px;
+
 }
