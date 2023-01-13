@@ -140,6 +140,21 @@ h1.blog-title-left {
     padding: 2rem 2rem 2rem 0rem;
 }
 
+.blog-nav {
+   display: flex; 
+   justify-content: space-between;
+}
+
+.link-blog-nav-prev {
+    display: block;
+    float: left;
+}
+
+.link-blog-nav-next {
+    display: block;
+    float: right;
+}
+
 /* footer */
 .footer {
     background-color: var(--primary-color);;
