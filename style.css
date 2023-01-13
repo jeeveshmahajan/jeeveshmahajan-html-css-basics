@@ -129,8 +129,15 @@ hr {
     background-color: var(--off-white);
 }
 
+/* blog */
 h1.blog-title-left {
     text-align: left;
+}
+
+.section .blog-image {
+    max-width: 100%;
+    display: block;
+    padding: 2rem 2rem 2rem 0rem;
 }
 
 /* footer */
