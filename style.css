@@ -177,3 +177,8 @@ h1.blog-title-left {
 .footer ul {
     padding-inline-start:0px;
 }
+
+/* social links */
+.social {
+    max-width: 1.2em;
+}
